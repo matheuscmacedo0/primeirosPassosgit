@@ -11,6 +11,7 @@ body {
 }
 .main-menu > ul{
     float: right;
+    margin: 10px;
 }
 .main-menu > ul > li{
     color: #303030;
